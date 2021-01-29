@@ -1,0 +1,30 @@
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\bin\Debug\BitalinoCon.exe.config
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\bin\Debug\BitalinoCon.exe
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\bin\Debug\BitalinoCon.pdb
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\obj\Debug\BitalinoCon.csprojResolveAssemblyReference.cache
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\obj\Debug\BitalinoCon.Properties.Resources.resources
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\obj\Debug\BitalinoCon.csproj.GenerateResource.Cache
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\obj\Debug\BitalinoCon.exe
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\obj\Debug\BitalinoCon.pdb
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\bin\Debug\BITalino_x86.dll
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\bin\Debug\BITalino_x86.xml
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\obj\Debug\BitalinoCon.Form1.resources
+c:\users\lourenço gomes\documents\visual studio 2015\Projects\BitalinoCon\BitalinoCon\obj\Debug\BitalinoCon.SearchDevices.resources
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.csprojAssemblyReference.cache
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.Form1.resources
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.Properties.Resources.resources
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.SearchDevices.resources
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.csproj.GenerateResource.cache
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.csproj.CoreCompileInputs.cache
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.exe
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.pdb
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\bin\Debug\BitalinoCon.exe.config
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\bin\Debug\BitalinoCon.exe
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\bin\Debug\BitalinoCon.pdb
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\bin\Debug\BITalino_x86.dll
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\bin\Debug\BITalino_x86.xml
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.csproj.CopyComplete
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.InserirPaciente.resources
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.Form3.resources
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.Form4.resources
+C:\Users\lp7\Desktop\Bitalino-master\BitalinoCon\obj\Debug\BitalinoCon.Gráfico.resources

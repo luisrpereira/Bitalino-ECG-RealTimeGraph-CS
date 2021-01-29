@@ -1,0 +1,36 @@
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\bin\Debug\BitalinoCon.exe.config
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\bin\Debug\BitalinoCon.exe
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\bin\Debug\BitalinoCon.pdb
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\bin\Debug\BITalino_x86.dll
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\bin\Debug\BITalino_x86.xml
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\Bitalino ECG APP.csprojAssemblyReference.cache
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.Form1.resources
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.Form4.resources
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.Gráfico.resources
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.Form3.resources
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.InserirPaciente.resources
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.Properties.Resources.resources
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.SearchDevices.resources
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\Bitalino ECG APP.csproj.GenerateResource.cache
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\Bitalino ECG APP.csproj.CoreCompileInputs.cache
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\Bitalino ECG APP.csproj.CopyComplete
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.exe
+C:\Users\lp7\Desktop\Programação II\BitalinoCon\obj\Debug\BitalinoCon.pdb
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\bin\Debug\BitalinoCon.exe.config
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\bin\Debug\BitalinoCon.exe
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\bin\Debug\BitalinoCon.pdb
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\bin\Debug\BITalino_x86.dll
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\bin\Debug\BITalino_x86.xml
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\Bitalino ECG APP.csprojAssemblyReference.cache
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.Form1.resources
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.Form4.resources
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.Gráfico.resources
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.Form3.resources
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.InserirPaciente.resources
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.Properties.Resources.resources
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.SearchDevices.resources
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\Bitalino ECG APP.csproj.GenerateResource.cache
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\Bitalino ECG APP.csproj.CoreCompileInputs.cache
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\Bitalino ECG APP.csproj.CopyComplete
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.exe
+D:\Trabalhos Programação\ECG BITALINO APP- PROG2\BitalinoCon\obj\Debug\BitalinoCon.pdb

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B8BADCA-7AD7-4078-B92F-C3D692BF1058}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BitalinoCon</RootNamespace>
+    <AssemblyName>BitalinoCon</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BITalino_x86">
+      <HintPath>..\dotNet-api-master\BITalino_x86.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DadosExame.cs" />
+    <Compile Include="Lista Exames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista Exames.Designer.cs">
+      <DependentUpon>Lista Exames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gráfico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gráfico.Designer.cs">
+      <DependentUpon>Gráfico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils.cs" />
+    <Compile Include="DataStore.cs" />
+    <Compile Include="DadosPaciente.cs" />
+    <Compile Include="DeviceSingletone.cs" />
+    <Compile Include="FazerExame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FazerExame.Designer.cs">
+      <DependentUpon>FazerExame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista Pacientes .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista Pacientes .Designer.cs">
+      <DependentUpon>Lista Pacientes .cs</DependentUpon>
+    </Compile>
+    <Compile Include="InserirPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InserirPaciente.Designer.cs">
+      <DependentUpon>InserirPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchDevices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchDevices.Designer.cs">
+      <DependentUpon>SearchDevices.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FazerExame.resx">
+      <DependentUpon>FazerExame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista Exames.resx">
+      <DependentUpon>Lista Exames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gráfico.resx">
+      <DependentUpon>Gráfico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista Pacientes .resx">
+      <DependentUpon>Lista Pacientes .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InserirPaciente.resx">
+      <DependentUpon>InserirPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SearchDevices.resx">
+      <DependentUpon>SearchDevices.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
